@@ -171,10 +171,6 @@ You may choose one of 3 output formats below,
 
 ## Operations
 
-### Get Access Token:
-
-![Box JWT Input Data](README_Get%20Token%20Access.png)
-
 ### File/Folder Lists:
 
 ![Box JWT Input Data](README_Get%20file%20list.png)
